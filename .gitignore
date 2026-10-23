@@ -1,0 +1,11 @@
+# Temporary test project used by local probes (never committed).
+.test-project.ecproj
+
+# The runner copies BeatMarker.jsx here before each test run.
+test/.BeatMarker.test.jsx
+
+# Editor / OS noise
+Thumbs.db
+desktop.ini
+.DS_Store
+*.log
